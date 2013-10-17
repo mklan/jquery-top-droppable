@@ -1,12 +1,12 @@
 {
-    "name": "jquery.top-droppable",
+    "name": "top-droppable",
     "title": "jQuery top-droppable",
     "description": "jQuery plugin, which allows you to drop a draggable-element only into the foremost droppable-element, if more of them are overlapping..",
     "keywords": [
         "ui",
         "droppable"
     ],
-    "version": "0.3",
+    "version": "0.3.0",
     "author": {
         "name": "Matthias Klan",
         "url": "https://github.com/vaceta/"
