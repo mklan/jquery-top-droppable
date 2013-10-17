@@ -1,11 +1,9 @@
 /*!
- * jQuery.topDroppable v0.2 (c) 2013 Matthias Klan;
- * allows you to add a draggable only into the top element, if more elements are overlapping
+ * jQuery.topDroppable v0.3 (c) 2013 Matthias Klan;
+ * Allows you to drop a draggable-element only into the foremost droppable-element, if more of them are overlapping.
  * 
  * contact: matthias.klan@gmail.com
  */
-
-
 
 
 (function($){
@@ -47,7 +45,7 @@
 		     		topElement = determineTopElement();	
 			    });
 				$(this).on( "drop", function( event, ui ) {
-			 		hoveringOverElements = new Array();;
+			 		hoveringOverElements = new Array();
 					if($(this).attr('top-droppable-id') == $(topElement).attr('top-droppable-id')){
 						i = 0;
 						topElement = null;
