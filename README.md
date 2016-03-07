@@ -75,9 +75,9 @@ You can access the top-droppable elements that you are currently hovering over w
 $.getCurrentHoveredElements();
 ```
 
-## Example
+## Demo
 
-Check out the [example](https://github.com/vaceta/jquery-top-droppable/tree/master/example) 
+Check out the [demo](http://matthiasklan.github.io/jquery-top-droppable-demo/) 
 
 
 ## Author
