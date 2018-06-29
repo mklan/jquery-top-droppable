@@ -77,12 +77,12 @@ $.getCurrentHoveredElements();
 
 ## Demo
 
-Check out the [demo](http://matthiasklan.github.io/jquery-top-droppable-demo/) 
+Check out the [demo](https://mklan.github.io/jquery-top-droppable-demo/) 
 
 
 ## Author
 
-[Matthias Klan](https://github.com/vaceta/)
+[Matthias Klan](https://github.com/mklan/)
 
 contact: matthias.klan@gmail.com 
 
